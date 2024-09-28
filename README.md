@@ -29,14 +29,14 @@ Add this widget directly to your Jetpack Compose project:
     // Your dependencies
 
     // Dotted Indicator
-    implementation "com.github.tusharhow:dotted-indicator:1.0.0"
+    implementation "com.github.tusharhow:DottedIndicator:1.0.1"
    }
    ```
 
 2. Import the `DottedIndicator` composable in your Kotlin file:
 
    ```kotlin
-   import com.tusharhow.dottedindicator.DottedIndicator
+   import com.example.dottedindicator.DottedIndicator
    ```
 
 ## Usage
