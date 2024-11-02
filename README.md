@@ -29,7 +29,7 @@ Add this widget directly to your Jetpack Compose project:
     // Your dependencies
 
     // Dotted Indicator
-    implementation "com.github.tusharhow:DottedIndicator:1.0.1"
+    implementation ("com.github.tusharhow:DottedIndicator:1.0.1")
    }
    ```
 
